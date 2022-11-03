@@ -1,2 +1,0 @@
-# testGitRepositoryReactAppVsCode
-test repository
